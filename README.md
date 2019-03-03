@@ -34,4 +34,4 @@ Supported Languages:
 
 Arabic, Bulgarian, Catalan, Czech, Chinese (Simplified), Chinese (Traditional), Danish, German, Greek, English, Finnish, French, Hebrew, Hindi, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Serbian, Swedish, Tagalog, Thai, Turkish, Ukrainian, Vietnamese
 
-![img description](https://i.imgur.com/c05IQ8e.png)
+![img description](https://i.imgur.com/QF4Djkn.png)
