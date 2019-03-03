@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ocrapi WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>ocrapi copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ocrapi.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5C43501D1485A23000DF57F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD3A1B731AF166D600D7C589</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD3BDCFD148D83AB008A4BB2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD93C01E1616129600DF2F82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

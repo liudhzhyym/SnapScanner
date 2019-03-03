@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>358217511160-e6g6nnv26csd3l532poua0bvev2pacgf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.358217511160-e6g6nnv26csd3l532poua0bvev2pacgf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZWwbaPJsmEHr6zax18U9_IJQS2U7lAik</string>
+	<key>GCM_SENDER_ID</key>
+	<string>358217511160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iBrad.OCRMe</string>
+	<key>PROJECT_ID</key>
+	<string>snapscanner-909bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapscanner-909bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:358217511160:ios:afbeab0e702a46d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://snapscanner-909bd.firebaseio.com</string>
+</dict>
+</plist>
